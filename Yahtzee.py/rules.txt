@@ -1,0 +1,26 @@
+Hello, welcome to Yahtzee!
+
+The game rules are as follows:
+
+1) The game is played in 13 rounds. Each player gets (1) turn each round.
+2) During a players turn, they start by rolling (5) six-sided die.
+3) The player can then choose to keep certain die and re-roll, or keep all of them and score that roll.
+4) During a turn, a player can only roll a total of (3) times.
+5) After the third and final roll, the game will present you with scoring options based on your last roll. 
+    After choosing an option, it moves to the next player.
+
+Yahtzee Rules:
+
+1) Each player can only score (1) Yahtzee - or (5) of a kind- per game.
+2) Each additional Yahtzee is marked in the 'Bonus' section, and is worth 100 points.
+3) The player will then select another category to score in, or a (0) if no other options are present.
+4) The game automatically calculates Bonus points, and displays each players scorecard at the end. 
+
+Notes:
+
+** A player can choose to take a (0) in any category during the game if they choose.
+** The game automatically calculates scores and displays scorecards at the end.
+** You are not able to 'replace' scores. Once a category is scored, it is final.
+** Use strategy and out-think your opponents.
+
+<<< Good Luck! >>>
